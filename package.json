@@ -1,0 +1,22 @@
+{
+	"name": "comments-42",
+	"main": "./lib/comments-42",
+	"version": "0.0.1",
+	"description": "Insert 42 styles block comments",
+	"keywords": [
+		"comments",
+		"42",
+		"norminette",
+		"norme"
+	],
+	"activationCommands": {
+		"atom-workspace": "comments-42:comment"
+	},
+	"repository": "https://github.com/zurbo/comments-42.git",
+	"license": "Unlicense",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {
+	}
+}
