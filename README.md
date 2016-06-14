@@ -1,4 +1,4 @@
-# comments-42 package
+# comments-42
 
 This package create well formated comments for 42 norminette
 
