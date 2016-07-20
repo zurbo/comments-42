@@ -2,11 +2,12 @@
   "name": "comments-42",
   "main": "./lib/comments-42",
   "version": "1.3.0",
-  "description": "Insert 42 styles block comments",
+  "description": "This package create well formated comments for 42 norminette",
   "keywords": [
     "42",
     "comment",
     "comments",
+	"norm",
     "norme",
     "norminette"
   ],
