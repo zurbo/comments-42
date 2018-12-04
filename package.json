@@ -2,22 +2,47 @@
   "name": "comments-42",
   "main": "./lib/comments-42",
   "version": "1.3.0",
-  "description": "This package create well formated comments for 42 norminette",
+  "description": "Insert 42 styles block comments",
   "keywords": [
     "42",
     "comment",
     "comments",
-	"norm",
     "norme",
     "norminette"
   ],
   "activationCommands": {
     "atom-workspace": "comments-42:comment"
   },
-  "repository": "https://github.com/zurbo/comments-42.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zurbo/comments-42.git"
+  },
   "license": "Unlicense",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "readme": "# comments-42 package\n\nThis package create well formated comments for 42 norminette\n\n![example](https://i.imgur.com/ioHXvON.gif)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/zurbo/comments-42/issues"
+  },
+  "homepage": "https://github.com/zurbo/comments-42#readme",
+  "_id": "comments-42@1.3.0",
+  "_shasum": "a7b12c30335e3058d3f0b69d51e366e55d0470aa",
+  "_resolved": "file:../d-116514-28710-7goxlg/package.tgz",
+  "_from": "../d-116514-28710-7goxlg/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".js": [
+        "lib/comments-42.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
 }
